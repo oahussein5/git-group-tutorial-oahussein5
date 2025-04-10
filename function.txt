@@ -1,6 +1,5 @@
 “This is a representation of an unfinished function a group member is working
 on."
 “This is a new change from Omar Hussein” 
-“This is a representation of an unfinished function a group member is working on.”
 "This is a new change from Reece Breidenbach"
-
+This is a new change made by Michael Toquam
